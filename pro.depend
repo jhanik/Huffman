@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1459109601 source:c:\users\anik\desktop\cse225-tmm\pro\huff.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"huf.h"
+
+1459110075 source:c:\users\anik\desktop\cse225-tmm\pro\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"huf.h"
+
+1459109257 c:\users\anik\desktop\cse225-tmm\pro\huff.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"huf.h"
+
+1459110049 c:\users\anik\desktop\cse225-tmm\pro\huf.h
+	<iostream>
+
+1470758765 source:c:\users\jh_anik\downloads\pro\pro\huff.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"huf.h"
+
+1470757577 c:\users\jh_anik\downloads\pro\pro\huf.h
+	<iostream>
+
+1470758024 source:c:\users\jh_anik\downloads\pro\pro\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"huf.h"
+
